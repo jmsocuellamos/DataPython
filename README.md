@@ -1,6 +1,6 @@
 # DataPython
 
-Ficheros de datos para análisis
+Ficheros de datos para análisis (extraidos de kaggle).
 
 ## Stroke Prediction Dataset
 
@@ -132,10 +132,36 @@ Total Volume - Total number of avocados sold
 4225 - Total number of avocados with PLU 4225 sold
 4770 - Total number of avocados with PLU 4770 sold
 
+## Mushrooms
 
+Although this dataset was originally contributed to the UCI Machine Learning repository nearly 30 years ago, mushroom hunting (otherwise known as "shrooming") is enjoying new peaks in popularity. Learn which features spell certain death and which are most palatable in this dataset of mushroom characteristics. And how certain can your model be?
 
+This dataset includes descriptions of hypothetical samples corresponding to 23 species of gilled mushrooms in the Agaricus and Lepiota Family Mushroom drawn from The Audubon Society Field Guide to North American Mushrooms (1981). Each species is identified as definitely edible, definitely poisonous, or of unknown edibility and not recommended. This latter class was combined with the poisonous one. The Guide clearly states that there is no simple rule for determining the edibility of a mushroom; no rule like "leaflets three, let it be'' for Poisonous Oak and Ivy.
 
+Attribute Information: (classes: edible=e, poisonous=p)
 
+1) cap-shape: bell=b,conical=c,convex=x,flat=f, knobbed=k,sunken=s
+2) cap-surface: fibrous=f,grooves=g,scaly=y,smooth=s
+3) cap-color: brown=n,buff=b,cinnamon=c,gray=g,green=r,pink=p,purple=u,red=e,white=w,yellow=y
+4) bruises: bruises=t,no=f
+5) odor: almond=a,anise=l,creosote=c,fishy=y,foul=f,musty=m,none=n,pungent=p,spicy=s
+6) gill-attachment: attached=a,descending=d,free=f,notched=n
+7) gill-spacing: close=c,crowded=w,distant=d
+8) gill-size: broad=b,narrow=n
+9) gill-color: black=k,brown=n,buff=b,chocolate=h,gray=g, green=r,orange=o,pink=p,purple=u,red=e,white=w,yellow=y
+10) stalk-shape: enlarging=e,tapering=t
+11) stalk-root: bulbous=b,club=c,cup=u,equal=e,rhizomorphs=z,rooted=r,missing=?
+12) stalk-surface-above-ring: fibrous=f,scaly=y,silky=k,smooth=s
+13) stalk-surface-below-ring: fibrous=f,scaly=y,silky=k,smooth=s
+14) stalk-color-above-ring: brown=n,buff=b,cinnamon=c,gray=g,orange=o,pink=p,red=e,white=w,yellow=y
+15) stalk-color-below-ring: brown=n,buff=b,cinnamon=c,gray=g,orange=o,pink=p,red=e,white=w,yellow=y
+16) veil-type: partial=p,universal=u
+17) veil-color: brown=n,orange=o,white=w,yellow=y
+18) ring-number: none=n,one=o,two=t
+19) ring-type: cobwebby=c,evanescent=e,flaring=f,large=l,none=n,pendant=p,sheathing=s,zone=z
+20) spore-print-color: black=k,brown=n,buff=b,chocolate=h,green=r,orange=o,purple=u,white=w,yellow=y
+21) population: abundant=a,clustered=c,numerous=n,scattered=s,several=v,solitary=y
+22) habitat: grasses=g,leaves=l,meadows=m,paths=p,urban=u,waste=w,woods=d
 
 
 
