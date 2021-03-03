@@ -344,6 +344,28 @@ Input variables (based on physicochemical tests):
 11) alcohol (the percent alcohol content of the wine)
 12) quality (score between 0 and 10;  6.5 => "good")
 
+## Melbourne Housing Snapshot (melb data set)
+
+Melbourne real estate is BOOMING. Can you find the insight or predict the next big trend to become a real estate mogul… or even harder, to snap up a reasonably priced 2-bedroom unit? It was scraped from publicly available results posted every week from Domain.com.au. He cleaned it well, and now it's up to you to make data analysis magic. The dataset includes Address, Type of Real estate, Suburb, Method of Selling, Rooms, Price, Real Estate Agent, Date of Sale and distance from C.B.D.
+
+Notes on Specific Variables
+
+1) Rooms: Number of rooms
+2) Price: Price in dollars
+3) Method: S - property sold; SP - property sold prior; PI - property passed in; PN - sold prior not disclosed; SN - sold not disclosed; NB - no bid; VB - vendor bid; W - withdrawn prior to auction; SA - sold after auction; SS - sold after auction price not disclosed. N/A - price or highest bid not available.
+4) Type: br - bedroom(s); h - house,cottage,villa, semi,terrace; u - unit, duplex; t - townhouse; dev site - development site; o res - other residential.
+5) SellerG: Real Estate Agent
+6) Date: Date sold
+7) Distance: Distance from CBD
+8) Regionname: General Region (West, North West, North, North east …etc)
+9) Propertycount: Number of properties that exist in the suburb.
+10) Bedroom2 : Scraped # of Bedrooms (from different source)
+11) Bathroom: Number of Bathrooms
+12) Car: Number of carspots
+13) Landsize: Land Size
+14) BuildingArea: Building Size
+15) CouncilArea: Governing council for the area
+
 
 
 
