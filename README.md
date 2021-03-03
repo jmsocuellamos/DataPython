@@ -268,9 +268,29 @@ About this file
 10) oceanProximity: Location of the house w.r.t ocean/sea
 
 
+## Air_population_seoul
 
+This dataset deals with air pollution measurement information in Seoul, South Korea.
+Seoul Metropolitan Government provides many public data, including air pollution information, through the 'Open Data Plaza'
+I made a structured dataset by collecting and adjusting various air pollution related datasets provided by the Seoul Metropolitan Government
 
+This data provides average values for six pollutants (SO2, NO2, CO, O3, PM10, PM2.5).
+Data were measured every six hours between 2017 and 2019.
+Data were measured for 25 districts in Seoul.
 
+About this file
+
+1) Measurament date
+2) Station Code
+3) Address
+4) Latitude
+5) Longitude
+6) S02 (ppm): (Good) 0.02;	(Normal) 0.05;	(Bad) 0.15;	(Very bad) 1.0
+7) NO2 (ppm): (Good) 0.03;	(Normal) 0.06;	(Bad) 0.2;	(Very bad) 2.0
+8) O3 (ppm): (Good) 2.0;	(Normal) 9.0;	(Bad) 15.0;	(Very bad) 50.0
+9) CO (ppm): (Good) 0.03;	(Normal) 0.09;	(Bad) 0.15;	(Very bad) 0.5
+10) PM10 (Microgram/m3): (Good) 30.0;	(Normal) 80.0;	(Bad) 150.0;	(Very bad) 600.0
+11) PM2.5 (Microgram/m3): (Good) 15.0;	(Normal) 35.0;	(Bad) 75.0;	(Very bad) 500.0
 
 
 
