@@ -366,7 +366,17 @@ Notes on Specific Variables
 14) BuildingArea: Building Size
 15) CouncilArea: Governing council for the area
 
+## Marketing Analytics
 
+The is a CSV file of 2240 observations (customers) with 28 variables related to marketing data. More specifically, the variables provide insights about:
+
+1) ID: Customer's unique identifier
+2) Year_Birth: Customer's birth year
+3) Education: Customer's education level
+4) Marital_Status: Customer's marital status
+5) Income: Customer's yearly household income
+6) Kidhome: Number of children in customer's household
+7) Teenhome: Number of teenagers in customer's household
 
 
 
